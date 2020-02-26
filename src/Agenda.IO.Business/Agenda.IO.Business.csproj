@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Agenda.IO.Data\Agenda.IO.Data.csproj" />
+    <ProjectReference Include="..\Agenda.IO.Model\Agenda.IO.Model.csproj" />
+  </ItemGroup>
+
+</Project>
